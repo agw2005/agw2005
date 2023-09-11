@@ -1,6 +1,7 @@
 ![Colorful Photo Rainbow Facebook Cover](https://github.com/agw2005/agw2005/assets/144427821/2c3049fa-1a28-49cb-8b29-fc9afe1ed1c4)
 
 ##Hello!##
+
 My name is Danial Al Ghazali Walangadi.
 
 A first-semester student at the State University of Semarang.
