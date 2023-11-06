@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danial</h1>
-<h3 align="center">I am a university student of Semarang State University. I am currently in my first year in Computer Science Major. I am planning to delve into Machine Learning, Artificial Intelligence, and Front-end Development.</h3>
+<h3 align="center">I am a university student of Semarang State University. I am currently in my first year in Computer Science Major.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
