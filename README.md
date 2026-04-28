@@ -4,9 +4,9 @@
 
 I have experience in developing full-stack web application, for the enterprise Foxconn Technologies Indonesia, using Deno, Oak, Vite React, Microsoft SQL Server, Nginx, and Docker.
 
-![Static Badge](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=latex&logoColor=white&link=https%3A%2F%2Fagw2005.github.io%2F%23%2Fresume)
-![Personal Email](https://img.shields.io/badge/Personal_Email-ab1d1d?style=for-the-badge&logo=gmail&logoColor=%23ffff5e&link=mailto%3Adanial.agw.2005%40gmail.com)
-![Personal Website](https://img.shields.io/badge/Personal_Website-000bab?style=for-the-badge&logo=react&logoColor=white&link=https%3A%2F%2Fagw2005.github.io)
+[![Resume](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=latex&logoColor=white&link=https%3A%2F%2Fagw2005.github.io%2F%23%2Fresume)](https://agw2005.github.io/#/resume)
+[![Personal Email](https://img.shields.io/badge/Personal_Email-ab1d1d?style=for-the-badge&logo=gmail&logoColor=%23ffff5e&link=mailto%3Adanial.agw.2005%40gmail.com)](mailto:danial.agw.2005@gmail.com)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-000bab?style=for-the-badge&logo=react&logoColor=white&link=https%3A%2F%2Fagw2005.github.io)](https://agw2005.github.io)
 
 ---
 
